@@ -1,0 +1,12 @@
+.mr-3:hover{
+text-decoration: none;
+}
+.info-card{
+    transition: .6s ease-in-out;
+    background-color: white;
+}
+.info-card:hover{
+    
+    background-color:cyan;
+
+}
